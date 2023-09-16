@@ -1,4 +1,5 @@
 # dotsync
 
-A tool for watching / backing up a set of directories or files to an arbitrary
-remote location / cloud service, via a simple toml or JSON config.
+[![tests](https://github.com/damienstanton/dotsync/actions/workflows/test.yml/badge.svg)](https://github.com/damienstanton/dotsync/actions/workflows/test.yml)
+
+A small tool for synchronizing files.
